@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ram&amp;Sheep</title>
+    <link href="styles/design.css" rel="stylesheet" />
+    <script src="scripts/lib/require.js" data-main="scripts/app"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <h1>Ram&amp;Sheep</h1>
+
+        <div id="playField">
+            <h2>Enter a number</h2>
+            <h4> with 4 different digits. </h4>
+            <h5> Couldn`t start with 0.</h5>
+
+            <input type="text" id="inputField" />
+            <button type="button" id="check">Check</button>
+        </div>
+
+        <img id="sheep" src="images/sheepBack.png" />
+        <div id="tries">
+            <h2>Entered numbers:</h2>
+            <ul id="numbersUl"></ul>
+        </div>
+        <div id="highScores">
+            <h2>High Scores</h2>
+            <ul id="highScoresUl"></ul>
+        </div>
+    </div>
+    <script>
+        console.log('HELP: White = sheep\nBlack = ram');
+    </script>
+</body>
+</html>

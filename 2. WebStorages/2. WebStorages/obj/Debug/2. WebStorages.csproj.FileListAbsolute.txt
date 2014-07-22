@@ -1,0 +1,6 @@
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\bin\_2.WebStorages.dll.config
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\bin\_2.WebStorages.dll
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\bin\_2.WebStorages.pdb
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\obj\Debug\2. WebStorages.csprojResolveAssemblyReference.cache
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\obj\Debug\_2.WebStorages.dll
+E:\Telerik\Java Script Applications\Homework\2. WebStorages\2. WebStorages\obj\Debug\_2.WebStorages.pdb

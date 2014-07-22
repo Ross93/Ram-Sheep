@@ -1,0 +1,91 @@
+﻿#tries ul li img {
+  height: 65px;
+  width: 60px;
+}
+#wrapper {
+  background-image: url('../images/back3.png');
+  width: 1000px;
+  left: 100px;
+  border: 3px solid green;
+  border-radius: 20px;
+  position: absolute;
+  font-family: Arial, 'Bookman Old Style', 'Times New Roman';
+  padding: 10px;
+  font-size:22px;
+  font-weight:bold;
+}
+h1 {
+  font-family: 'Wide Latin', 'Bookman Old Style', 'Times New Roman';
+  text-align: center;
+  margin: 0;
+}
+h3,h4,h5 {
+  font-weight: bolder;
+  margin: 5px;
+}
+h2{
+    margin:10px;
+}
+button {
+  background: #d2ff52;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #d2ff52 3%, #67e54b 50%, #91e842 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(3%, #d2ff52), color-stop(50%, #67e54b), color-stop(100%, #91e842));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #d2ff52 3%, #67e54b 50%, #91e842 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #d2ff52 3%, #67e54b 50%, #91e842 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #d2ff52 3%, #67e54b 50%, #91e842 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #d2ff52 3%, #67e54b 50%, #91e842 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d2ff52', endColorstr='#91e842', GradientType=0);
+  /* IE6-9 */
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+button:hover {
+  background: #b4e391;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b4e391), color-stop(50%, #61c419), color-stop(100%, #b4e391));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #b4e391 0%, #61c419 50%, #b4e391 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b4e391', endColorstr='#b4e391', GradientType=0);
+  /* IE6-9 */
+}
+#highScores {
+  display: none;
+  top: 50px;
+  left: 650px;
+  position: absolute;
+}
+#numbersUl,
+#highScoresUl {
+  list-style-image: url('../images/flower3.png');
+}
+#inputField {
+  border: 1px solid green;
+  border-radius: 10px;
+  padding: 5px 5px 5px 25px;
+  color: darkgreen;
+  font-weight: bold;
+}
+#sheep {
+  position: absolute;
+  top: 40px;
+  left: 400px;
+  width: 160px;
+  height: 160px;
+}
+/*# sourceMappingURL=style.css.map */
